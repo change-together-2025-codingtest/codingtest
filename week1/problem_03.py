@@ -1,3 +1,4 @@
+# 같은 숫자는 싫어
 def solution(arr):
     answer = []
     length = len(arr) # 배열 길이를 찾기 위한 변수

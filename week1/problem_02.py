@@ -1,3 +1,4 @@
+# n^2 배열 자르기
 def solution(n, left, right):
     answer = []
     num = right-left # left부터 right까지의 개수

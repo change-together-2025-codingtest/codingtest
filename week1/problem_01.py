@@ -1,3 +1,4 @@
+# 자연수 뒤집어 배열로 만들기
 def solution(n):
     answer = [] 
     num=n # 반복문 안에서 사용할 변수

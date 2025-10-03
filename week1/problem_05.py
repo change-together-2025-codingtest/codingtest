@@ -1,3 +1,4 @@
+# 기능개발
 def solution(progresses, speeds):
     answer = []
     arr = [] # 각 작업이 끝나기까지 걸리는 일수
