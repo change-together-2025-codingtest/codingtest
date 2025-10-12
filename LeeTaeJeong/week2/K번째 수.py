@@ -1,5 +1,3 @@
-# K번째 수
-
 def solution(array, commands):
     arr = [] # 계산을 할 배열
     answer = []
