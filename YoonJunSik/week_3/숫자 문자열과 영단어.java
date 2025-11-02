@@ -6,7 +6,6 @@ class Solution {
         for (int i = 0; i < words.length; i++) {
             s = s.replaceAll(words[i], String.valueOf(i));
         }
-
         return Integer.parseInt(s);
     }
 }

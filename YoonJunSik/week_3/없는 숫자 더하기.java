@@ -6,7 +6,6 @@ class Solution {
         for (int n : numbers) {
             sum += n;
         }
-
         return total - sum;
     }
 }
